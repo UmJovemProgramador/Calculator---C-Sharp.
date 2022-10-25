@@ -9,7 +9,7 @@ public class HelloWorld
         int VarLoop = 1;
           
         while (VarLoop == 1) {
-        Console.WriteLine(">>>>>>>>>>>>>CALCULADORA<<<<");
+        Console.WriteLine(">>>>CALCULADORA<<<<");
         Console.WriteLine("Menu de Operacoes: ");
         Console.WriteLine("1 = SOMA.");
         Console.WriteLine("2 = SUBTRACAO.");
